@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.leftbar {
+  float:left;
+  background-color: red;
+  width: 400px;
+  height:800px;
+}
+
+.rightbar {
+  float: right;
+  position: relative;
+  background-color: pink;
+  width: 400px;
+  height: 800px;
+}
+
+.corner {
+position:absolute;
+right:0px;
+bottom:0px;
+width: 400px;
+height: 200px;
+border: 1px solid green;
+background-color: blue;
+}
+
+.text {
+  margin-top: 100px;
+
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}

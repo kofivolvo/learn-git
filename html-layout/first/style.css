@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.topbar
+{
+  background-color: grey;
+  height: 150px;
+
+}
+
+.sidebar {
+float:left;
+background-color: pink;
+width: 200px;
+height:789px;
+
+}
+
+.sidebarright {
+  float: right;
+  background-color: pink;
+  width: 200px;
+  height: 789px;
+
+}
+
+.bottom{
+background-color: red;
+position:absolute;
+  width:650px;
+  height:100px;
+  bottom:-32%;
+  right:80%;
+  left: 19%;
+  margin-bottom: -10.58%;
+
+
+
+
+}
